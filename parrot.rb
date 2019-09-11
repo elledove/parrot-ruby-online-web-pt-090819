@@ -4,4 +4,3 @@ def parrot (squawk)
   puts "Squawk!"
   return "Squawk"
 end
-parrot
